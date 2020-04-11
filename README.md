@@ -29,7 +29,21 @@ we have used pearson correlation matrix for finding similarity between two matri
 We have used gredient descent algorithm train our model's parameters.
 
 
- Our dataset consists of 100,000 ratings of movie which is subset of MovieLens dataset. we have included link for dataset and also dataset in this repository.
+ Our dataset consists of 100,000 ratings of movies which is subset of MovieLens dataset. we have included link for dataset and also dataset in this repository.
  Firstly there is data visualization with various methods and then we have implemented item based collaborative filtering and then matrix factorization.
  We have also one interactive graph based on user data which can be seen by running the python notebook.You can see the screenshot for the same in this repository.
  Lastly we have one video of running the notebook and training the model.
+
+ ## Requirements(libraries used ) :
+ tensorflow
+ numpy
+ pandas
+ altair
+ matplotlib
+ seaborn
+urllib
+zipfile
+os
+collections
+ 
+ You can enter your movie in both systems and can see similar movies from there.
